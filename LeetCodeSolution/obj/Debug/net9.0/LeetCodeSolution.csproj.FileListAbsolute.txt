@@ -1,0 +1,14 @@
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/bin/Debug/net9.0/LeetCodeSolution
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/bin/Debug/net9.0/LeetCodeSolution.deps.json
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/bin/Debug/net9.0/LeetCodeSolution.runtimeconfig.json
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/bin/Debug/net9.0/LeetCodeSolution.dll
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/bin/Debug/net9.0/LeetCodeSolution.pdb
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.AssemblyInfoInputs.cache
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.AssemblyInfo.cs
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.csproj.CoreCompileInputs.cache
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.dll
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/refint/LeetCodeSolution.dll
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.pdb
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.genruntimeconfig.cache
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/ref/LeetCodeSolution.dll
