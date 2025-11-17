@@ -12,3 +12,4 @@
 /Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.pdb
 /Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.genruntimeconfig.cache
 /Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/ref/LeetCodeSolution.dll
+/Users/yum/RiderProjects/LeetCodeSolution/LeetCodeSolution/obj/Debug/net9.0/LeetCodeSolution.sourcelink.json
