@@ -176,6 +176,8 @@ public class Solution3428
     }
 
 
+    
+    
     // 数学分析解法
     private const int MOD = 1000000007;
 
