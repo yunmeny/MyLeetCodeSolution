@@ -9,9 +9,6 @@ public class Solution1493
         var res = 0;
         var oneCount = 0;
         var zeroCount = 0;
-        var left = 0;
-        var sum = 0;
-        var map = new Dictionary<int, int>();
         for (var right = 0; right < nums.Length; right++)
         {
             if (nums[right] == 1)
@@ -45,6 +42,43 @@ public class Solution1493
         if (zeroCount == 0)
         {
             res = Math.Max(res, oneCount - 1);
+        }
+        return res;
+    }
+    
+    // 更简洁
+    public int LongestSubarray2(int[] nums) {
+        var i = 0;
+        var j = 0;
+        var cntZ = 0;
+        var ans = 0;
+
+        for (; j < nums.Length; j++) {
+            cntZ += 1 - nums[j];
+            while (cntZ > 1) {
+                cntZ -= (1- nums[i++]);
+            }
+            ans = Math.Max(ans, j - i);
+        }
+
+        return ans;
+    }
+    
+    public int LongestSubarray3(int[] nums) {
+        int res=0;
+        bool hasZero=false;
+        int left=0,right=0;
+        for(;right<nums.Length;right++){
+            if(nums[right]==0){
+                if(hasZero){
+                    while(nums[left]!=0){
+                        left++;
+                    }
+                    left++;
+                }
+                hasZero=true;
+            }
+            res=Math.Max(res,right-left);
         }
         return res;
     }
