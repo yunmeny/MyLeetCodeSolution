@@ -2,6 +2,9 @@ namespace LeetCodeSolution;
 
 public class Solution904
 {
+    // 动态滑窗，比较常规的解法
+    // 但是执行时间还是较长，有明显的优化空间
+    // 目前想到的是在数据结构的处理上，比如字典，算法结构也可以优化
     public int TotalFruit(int[] fruits)
     {
         var ans = 0;
